@@ -1,0 +1,30 @@
+.im{
+	background-image: url("./background");
+}
+.cont-center{
+	
+	padding: 30%;
+	display:flex ;
+	align-items: center;
+	justify-content: center;
+
+}
+.tex-dec {
+	color: white;
+}
+.box{
+
+	padding: 10px;
+	height: 100px;
+	width: 300px;
+	background: black;
+	border-radius: 20px;
+	display:flex ;
+	align-items: center;
+	justify-content: center;
+}
+.image{
+
+}
+	
+
